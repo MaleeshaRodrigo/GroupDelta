@@ -1,3 +1,5 @@
+<!-- Developed by Group Delta Team-->
+
 <?php include("partials/header.php"); ?>   
 
     <div class="index-container">
